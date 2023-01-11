@@ -13,8 +13,8 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 ## Schedule and Assignments
 *Subject to change based on interests and needs
 
-### Process and Skills 
-| Part 1 | | | 
+### Part 1: Process and Skills 
+| Date | Week | Topic | 
 | :--- | ----------- | ----------- |
 | Jan 23 | Week 1 | [Pseudocoding / Looping Animations]() |
 | Jan 30 | Week 2 | Pair Programming / Unpredictability |
@@ -27,7 +27,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | Mar 20 | Week 7 | Project Planning / Software Metaphors |
 
 ### Part 2: Indepedent Project Development
-| | | | 
+| Date | Week | Topic | 
 | :--- | ----------- | ----------- |
 | Mar 27 | Week 8 | Project Proposals |
 | Apr 3 - May 1 | Weeks 9-13 | Project Development |
