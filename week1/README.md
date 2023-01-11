@@ -6,7 +6,7 @@
 
 ## Assignment
 
-### Part 1: Record
+### Part 1: Set up
 Make sure you have a blog or some place to document your work and reflect on your process this semester. 
 
 ### Part 1: Encode
@@ -22,8 +22,8 @@ Use this the Encode process to reverse engineer these sketches:
 - [p5 Transformations](https://genekogan.com/code/p5js-transformations) by Gene Kogan
 - [Coding Train videos 9.1-9.3](https://thecodingtrain.com/Tutorials/) on transformations using `translate()`, `rotate()`, `push()` and `pop()`
 - [Changes over time](https://creative-coding.decontextualize.com/changes-over-time/) and [Transformations and functions](https://creative-coding.decontextualize.com/transformations-and-functions/) by Allison Parrish
-- Nature of Code videos on [Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) and [Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) using `sin()` and `cos()` functions) and [Video 9.20](https://www.youtube.com/watch?v=N633bLi_YCw), also on polar coordinates
-- Another Nature of Code video on [Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) using the `sin()` function
+- Nature of Code videos on [Angles and Rotation](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/1-angles-and-rotation) and [Polar Coordinates](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/4-polar-coordinates) using `sin()` and `cos()` functions (don't worry about vectors) and [Video 9.20](https://www.youtube.com/watch?v=N633bLi_YCw), also on polar coordinates
+- Another Nature of Code video on [Simple Harmonic Motion](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/5-harmonic-motion) using the `sin()` function
 - [p5.js Sine and Cosine animations](https://www.youtube.com/watch?v=qWIcAWYm-aU), video tutorial by Will Mclean
 - [Sine / Cosine Reference](https://www.mathsisfun.com/algebra/trig-interactive-unit-circle.html), Interactive Unit Circle
 - [Coding Train Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
@@ -34,7 +34,7 @@ Use this the Encode process to reverse engineer these sketches:
 - Possible inspiration
     - [Tanabata(七夕)](https://openprocessing.org/sketch/926326) by Yurika Sayo (n.d.)
     - [The Best is Yet to Come](https://silviolorusso.com/work/the-best-is-yet-to-come/) by Silvio Lorusso (2012) (scroll down to video)
-    - [DVD guy](https://silviolorusso.com/work/the-best-is-yet-to-come/) by Constant Dullaart (2009), [context](http://www.upstreamgallery.nl/news/545/constant-dullaart-solo-show-nein-gag-at-panke-gallery-berlin) by Panke Gallery in Berlin (2019)
+    - [DVD guy](https://www.youtube.com/playlist?list=PLCUGKK4FUkbMdnNii8qoRy9_tMvqE8XHB) by Constant Dullaart (2009), [context](http://www.upstreamgallery.nl/news/545/constant-dullaart-solo-show-nein-gag-at-panke-gallery-berlin) by Panke Gallery in Berlin (2019)
     - [ICONS8: Preloaders](https://icons8.com/preloaders/) (hover for animations)
     - [45 Examples of Amazing Website Preloaders Around the Web](https://htmlburger.com/blog/website-preloaders/)
     - …from logging into and loading content from almost any app / site?
