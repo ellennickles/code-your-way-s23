@@ -40,7 +40,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
     - …from logging into and loading content from almost any app / site?
 
 ### Part 4: Document
-- Write a blog post. Link to your sketches from Part 2 and Part 3from all the exercises.
+- Write a blog post. Link to your sketches from Part 2 and Part 3.
 - Reflect on the discoveries and challenges you encountered during the exercises. What graphic or animation effects are most pleasing to you? Where did you get stuck and what steps did you take to troubleshoot? What code-related techniques would you like to explore and practice more?
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
 
