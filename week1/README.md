@@ -9,7 +9,7 @@
 ### Part 1: Set up
 Make sure you have a blog or some place to document your work and reflect on your process this semester. 
 
-### Part 1: Encode
+### Part 2: Encode
 Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/main/encode.md) to reverse engineer these sketches:
 - [Encode 1](https://editor.p5js.org/enickles/full/tUqBW4i_M) (class example, complete only if you still have questions)
 - [Encode 2](https://editor.p5js.org/enickles/full/JqMTxN0qK) 
