@@ -30,7 +30,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
 
 ### Part 3: Re/Code
 - Create a loading icon (aka preloader or throbber) animation with code. Find and recode an existing one (different from the ones above) or design your own. Where do you often see these types of icons? Think of all the loading and waiting animations you encounter in your digital interactions, e.g. streaming video, connecting to devices, syncing accounts, payment transactions, etc. Are the icons related to waiting (or wasting) time? What does a loading icon communicate or hide? What aspect of experiencing time on a machine do you want to explore or express? (Source: [Aesthetic Programming](https://aesthetic-programming.net/))
-- Practice writing pseudocode to start the process. Write an outline to guide you through the steps. It’s okay if you veer away from the original plan, the idea is to practice this approach.
+- Practice writing pseudocode to start the process. Write / draw an outline to guide you through the steps. It’s okay if you veer away from the original plan, the idea is to practice this approach.
 - Possible inspiration
     - [Tanabata(七夕)](https://openprocessing.org/sketch/926326) by Yurika Sayo (n.d.)
     - [The Best is Yet to Come](https://silviolorusso.com/work/the-best-is-yet-to-come/) by Silvio Lorusso (2012) (scroll down to video)
