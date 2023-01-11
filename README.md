@@ -13,7 +13,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 ## Schedule and Assignments
 *Subject to change based on interests and needs
 
-| Part 1 |  |  | 
+| Part 1  |  | Process and Skills | 
 | :--- | ----------- | ----------- |
 | Jan 23 | Week 1 | [Pseudocoding / Looping Animations]() |
 | Jan 30 | Week 2 | Pair Programming / Unpredictability |
@@ -25,7 +25,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | Mar 13 | No Class | Spring Break |
 | Mar 20 | Week 7 | Project Planning / Software Metaphors |
 
-| Part 2 |  |  | 
+| Part 2 |  | Indepedent Project Development | 
 | :--- | ----------- | ----------- |
 | Mar 27 | Week 8 | Project Proposals |
 | Apr 3 - May 1 | Weeks 9-13 | Project Development |
@@ -79,10 +79,9 @@ We will have weekly assignments that are relevant to material from the previous 
 ### Evaluation
 Final course evaluation will be based on participation and attendance, and the completion of all assignments, including the final independent project, according to this breakdown:
 
-30% Participation and attendance
-30% First half semester weekly assignments
-30% Independent project progress assignments
-20% Independent project
+- 30% Participation and attendance
+- 50% Weekly assignments
+- 20% Independent project
 
 This class uses a [Pass/Fail](https://itp.nyu.edu/help/pass-fail/) grading system. A Pass is equivalent to an A or a B grade, and anything less is considered a Fail.
 
