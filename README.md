@@ -26,7 +26,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | Mar 13 | No Class | Spring Break |
 | Mar 20 | Week 7 | Project Planning / Software Metaphors |
 
-### Part 2: Indepedent Project Development
+### Part 2: Independent Project Development
 | Date | Week | Topic | 
 | :--- | :--- | :--- |
 | Mar 27 | Week 8 | Project Proposals |
