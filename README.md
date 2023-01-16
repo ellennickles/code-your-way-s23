@@ -5,7 +5,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | :--- | ----------- |
 | Meeting Time   | Mon 9:30am - 12:00pm ET|
 | Location   | 370 Jay Street Brooklyn • Room 409 |
-| Remote Access | 1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
+| Remote Access | This is an in-person course, but sometimes life happens:<br>1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours |
 | Office Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)<br>[How to ask code-related questions](https://github.com/ITPNYU/ICM-2021-Code/wiki/Example-Questions) | 
