@@ -7,7 +7,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | Location   | 370 Jay Street Brooklyn • Room 409 |
 | Remote Access | 1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours |
-| Office Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
+| Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)<br>[How to ask code-related questions](https://github.com/ITPNYU/ICM-2021-Code/wiki/Example-Questions) | 
 | Quick Links  | [Submit assignments](https://forms.gle/5AgRQUsAeUj8mVNTA)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/14xLXPxR4IgosrZDG_Kim-iqDfAAmAjKC7yDhyS5JVac/edit?resourcekey#gid=1950048477) share TBA<br>[Our Miro Board](https://tinyurl.com/cyw23-miro)| 
 
@@ -36,6 +36,16 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 
 ## Syllabus
 
+### Contents
+- [Course Description](https://github.com/ellennickles/code-your-way-s23#course-description)
+- [Learning Objectives](https://github.com/ellennickles/code-your-way-s23#learning-objectives)
+- [Format](https://github.com/ellennickles/code-your-way-s23#format)
+- [Community Guidelines](https://github.com/ellennickles/code-your-way-s23#community-guidelines)
+- [Participation and Attendance](https://github.com/ellennickles/code-your-way-s23#participation-and-attendance)
+- [Overview of Assignments](https://github.com/ellennickles/code-your-way-s23#overview-of-assignments)
+- [Evaluation](https://github.com/ellennickles/code-your-way-s23#evaluation)
+- [Statements](https://github.com/ellennickles/code-your-way-s23#statements)
+
 ### Course Description
 This course provides students an opportunity to sharpen their coding skills in several ways: by reviewing fundamental programming concepts, acquiring techniques to systematically develop code-driven projects, and then implementing those to develop an independent project with the structure and support of a classroom learning community.
 
@@ -44,9 +54,6 @@ The first part of the semester consists of weekly exercises to practice strategi
 Ultimately this course aims to empower students to reflect on their process and teach themselves how to program with greater efficiency and independence. It is a direct follow-up to Introduction to Computational Media (ICM) or for anyone interested in advancing their coding practice.
 
 Examples and exercises will be provided in JavaScript using the p5.js library. However, students are welcome to consult the instructor about working with another programming library, framework, or language with which they have interest or prior experience. Prerequisite: ICM or equivalent experience
-
-### Format
-This is a 14-week course that meets once a week in person. Class time is divided into individual and group exercises, studio time, opportunities for project development, sharing assignments, and exchanging feedback. Weekly skill exercises target approaches and techniques for developing projects with code. Studio is multipurpose time to work on assignments (individually or in small groups), to share skills and resources, to review topics, and to conference with the instructor.
 
 ### Learning Objectives
 Upon completion of this course, we will be able to:
@@ -57,6 +64,9 @@ Upon completion of this course, we will be able to:
 - compare approaches for designing and developing code-based projects;
 - outline a plan to independently create such a project;
 - integrate any relevant technical concepts and strategies necessary to complete it.
+
+### Format
+This is a 14-week course that meets once a week in person. Class time is divided into individual and group exercises, studio time, opportunities for project development, sharing assignments, and exchanging feedback. Weekly skill exercises target approaches and techniques for developing projects with code. Studio is multipurpose time to work on assignments (individually or in small groups), to share skills and resources, to review topics, and to conference with the instructor.
 
 ### Community Guidelines
 In keeping with the [ITP/IMA Code of Conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/index), this course is committed to providing an inclusive, welcoming, and harassment-free space for everyone in our community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content.
