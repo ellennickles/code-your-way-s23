@@ -18,8 +18,8 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | Date | Week | Topic | 
 | :--- | :--- | :--- |
 | Jan 23 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s23/tree/main/week1) |
-| Jan 30 | Week 2 | Pair Programming / Unpredictability |
-| Feb 6 | Week 3 | Debugging / Iterative Patterns 1 |
+| Jan 30 | Week 2 | Debugging / Unpredictability |
+| Feb 6 | Week 3 | Pair Programming / Iterative Patterns 1 |
 | Feb 13 | Week 4 | Version Control 1 / Iterative Patterns 2 |
 | Feb 20 | No Class | Presidents’ Day |
 | Feb 27 | Week 5 | Version Control 2 / Parametric Geometries |
