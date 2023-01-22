@@ -1,5 +1,5 @@
 # Code Your Way
-NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) • Spring 2023 
+ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch School of the Arts • Spring 2023 
 
 | Course Information|  |
 | :--- | ----------- |
