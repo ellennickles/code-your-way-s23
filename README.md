@@ -5,7 +5,7 @@ NYU Tisch School of the Arts • Interactive Telecommunications Program (ITP) �
 | :--- | ----------- |
 | Meeting Time   | Mon 9:30am - 12:00pm ET|
 | Location   | 370 Jay Street Brooklyn • Room 409 |
-| Remote Access | This is an in-person course, but sometimes life happens:<br>1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
+| Remote Access | This is an in-person course, but when life happens<br>1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)<br>[How to ask code-related questions](https://github.com/ITPNYU/ICM-2021-Code/wiki/Example-Questions) | 
@@ -57,7 +57,7 @@ Examples and exercises will be provided in JavaScript using the p5.js library. H
 
 ### Learning Objectives
 Upon completion of this course, we will be able to:
-- identity gaps in our understanding about coding concepts for further review and practice;
+- identify gaps in our understanding about coding concepts for further review and practice;
 - explain techniques to debug and refactor our programs;
 - apply these techniques to troubleshoot and optimize existing or new code;
 - track and store revisions to our programs using a dedicated version control system;
@@ -78,13 +78,13 @@ We understand the classroom as a space for practicing freedom; where one may cha
 #### Participation
 This class is highly participatory, and there are many ways to demonstrate your engagement with the course material and with your peers:
 contribute to class discussions;
-ask and answer questions, especially to and from your peers;
-share your assignments and progress with the class;
-participate in group exercises with curiosity and enthusiasm;
-help your peers by sharing your knowledge and experience.
+- ask and answer questions, especially to and from your peers;
+- share your assignments and progress with the class;
+- participate in group exercises with curiosity and enthusiasm;
+- help your peers by sharing your knowledge and experience.
 
 #### Absences
-Attendance is mandatory. If you think you will be absent, please contact me as soon as possible. Two unexcused absences are cause for failing the course. 
+Attendance is mandatory. If you think you will be absent, please contact me before class unless circumstances make this truly impossible. Two unexcused absences are cause for failing the course. 
 
 #### Lateness
 An unexcused lateness of 10 minutes or more is equivalent to 1/2 of an unexcused absence.
