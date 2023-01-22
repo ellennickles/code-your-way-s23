@@ -129,10 +129,3 @@ Tisch School of the Arts is dedicated to providing its students with a learning 
 
 #### Use of Electronic Devices
 Laptops and tablets are allowed for note taking, in class work, as well as relevant research only. Activities not related to the class, such as recreational use of the internet, including all social media websites, email and instant messaging, game playing, and work for other classes, will not be permitted. This includes recreational use of phones, music players, video game systems. Such activities are disrespectful to the instructor and distracting to others. Your laptop should always be closed whenever a fellow student is presenting.
-
-
-
-
-
-
-
