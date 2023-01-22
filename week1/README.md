@@ -20,7 +20,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
 #### Resources
 - [p5 Reference and Examples](https://p5js.org/reference/)
 - [p5 Transformations](https://genekogan.com/code/p5js-transformations) by Gene Kogan
-- [Coding Train videos 9.1-9.3](https://thecodingtrain.com/Tutorials/) on transformations using `translate()`, `rotate()`, `push()` and `pop()`
+- [Coding Train videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM&list=PLRqwX-V7Uu6ZmA-d3D0iFIvgrB5_7kB8H) on transformations using `translate()`, `rotate()`, `push()` and `pop()`
 - [Changes over time](https://creative-coding.decontextualize.com/changes-over-time/) and [Transformations and functions](https://creative-coding.decontextualize.com/transformations-and-functions/) by Allison Parrish
 - Nature of Code videos on [Angles and Rotation](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/1-angles-and-rotation) and [Polar Coordinates](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/4-polar-coordinates) using `sin()` and `cos()` functions (don't worry about vectors) and [Video 9.20](https://www.youtube.com/watch?v=N633bLi_YCw), also on polar coordinates
 - Another Nature of Code video on [Simple Harmonic Motion](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/5-harmonic-motion) using the `sin()` function
@@ -30,7 +30,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
 
 ### Part 3: Re/Code
 - Create a loading icon (aka preloader or throbber) animation with code. Find and recode an existing one (different from the ones above) or design your own. Where do you often see these types of icons? Think of all the loading and waiting animations you encounter in your digital interactions, e.g. streaming video, connecting to devices, syncing accounts, payment transactions, etc. Are the icons related to waiting (or wasting) time? What does a loading icon communicate or hide? What aspect of experiencing time on a machine do you want to explore or express? (Source: [Aesthetic Programming](https://aesthetic-programming.net/))
-- Practice writing pseudocode to start the process. Write / draw an outline to guide you through the steps. It’s okay if you veer away from the original plan, the idea is to practice this approach.
+- Make a plan. Practice writing pseudocode to start the process. Write / draw an outline to guide you through the steps. It’s okay if you veer away from the original plan, the idea is to practice this approach.
 - Possible inspiration
     - [Tanabata(七夕)](https://openprocessing.org/sketch/926326) by Yurika Sayo (n.d.)
     - [The Best is Yet to Come](https://silviolorusso.com/work/the-best-is-yet-to-come/) by Silvio Lorusso (2012) (scroll down to video)
@@ -41,7 +41,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
 
 ### Part 4: Document
 - Write a blog post. Link to your sketches from Part 2 and Part 3.
-- Reflect on the discoveries and challenges you encountered during the exercises. What graphic or animation effects are most pleasing to you? Where did you get stuck and what steps did you take to troubleshoot? What code-related techniques would you like to explore and practice more?
+- Reflect on the discoveries and challenges you encountered during the exercises. What graphic or animation effects are most pleasing to you? Where did you get stuck, and what steps did you take to troubleshoot? What code-related techniques would you like to explore and practice more?
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
 
 
