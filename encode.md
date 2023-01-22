@@ -14,8 +14,8 @@ Steps to start reverse engineering sketches:
 3. **Investigate** • Now look at the source code. Tinker with it, and map the features from your observations to individual lines or blocks of code. Can you identify the part(s) of the code that implement the elements on which you speculated? For example, try:
     - Changing function parameters and variable values in substantial ways.
     - Commenting out parts of the code to see what happens.
-    - Consulting the resources below if you see anything new.
-4. **Annotate** • Duplicate the sketch into your own p5 account, and comment parts of the code to explain what it does so that you can "tell the story" of the program. 
+    - Consulting the resources for the assignment if you see anything new.
+4. **Annotate** • Duplicate the sketch into your own p5 account, and comment the code to explain what the different parts do, i.e. can you tell the story of the program? 
     - If you need to, annotate each line, especially those with functions, syntax, and techniques that are new to you. 
     - For example: describe how a function's parameters work, e.g. instead of // draws a circle, include the how: // the x parameter is the circle's distance from the origin of the canvas. 
     - If you get stuck, write yourself a question to return to later.
