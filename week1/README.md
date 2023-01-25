@@ -29,6 +29,7 @@ Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/
 - [p5.js Sine and Cosine animations](https://www.youtube.com/watch?v=qWIcAWYm-aU), video tutorial by Will Mclean
 - [Sine / Cosine Reference](https://www.mathsisfun.com/algebra/trig-interactive-unit-circle.html), Interactive Unit Circle
 - [Coding Train Coding Challenge #74: Clock with p5.js](https://www.youtube.com/watch?v=E4RyStef-gY)
+- [Coding Train Guest Tutorial: The Modulo Operator % with Golan Levin](https://www.youtube.com/watch?v=r5Iy3v1co0A)
 
 ### Part 3: Re/Code
 - Create a loading icon (aka preloader or throbber) animation with code. Find and recode an existing one (different from the ones above) or design your own. Where do you often see these types of icons? Think of all the loading and waiting animations you encounter in your digital interactions, e.g. streaming video, connecting to devices, syncing accounts, payment transactions, etc. Are the icons related to waiting (or wasting) time? What does a loading icon communicate or hide? What aspect of experiencing time on a machine do you want to explore or express? (Source: [Aesthetic Programming](https://aesthetic-programming.net/))
