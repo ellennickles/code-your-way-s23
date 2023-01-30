@@ -14,14 +14,14 @@
 ### Part 1: Decode
 Use the [Decode process](https://github.com/ellennickles/code-your-way-s23/blob/main/decode.md) to practice reading and analyzing code before running it to predict the outcome.
 
-- [Decode 1](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode1.md)
-- [Decode 2](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode2.md) 
-- [Decode 3](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode3.md) 
-- [Decode 4](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode4.md) 
+- [Decode 1](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode1.js)
+- [Decode 2](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode2.js) 
+- [Decode 3](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode3.js) 
+- [Decode 4](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode4.js) 
 
 Watch [Coding Train videos I.2-I.4](https://www.youtube.com/watch?v=Qf4dIN99e2w&list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD) on the difference between `random()` and `noise()` ([related code](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)), and then:
 
-- [Decode 5](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode5.md)
+- [Decode 5](https://github.com/ellennickles/code-your-way-s23/blob/main/week2/decode5.js)
 
 #### Resources
 - **TL;DW** 
