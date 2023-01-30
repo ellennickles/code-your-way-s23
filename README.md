@@ -18,7 +18,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Date | Week | Topic | 
 | :--- | :--- | :--- |
 | Jan 23 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s23/tree/main/week1) |
-| Jan 30 | Week 2 | Debugging / Unpredictability |
+| Jan 30 | Week 2 | [Debugging / Unpredictability](https://github.com/ellennickles/code-your-way-s23/tree/main/week2) |
 | Feb 6 | Week 3 | Pair Programming / Iterative Patterns 1 |
 | Feb 13 | Week 4 | Version Control 1 / Iterative Patterns 2 |
 | Feb 20 | No Class | Presidents’ Day |
