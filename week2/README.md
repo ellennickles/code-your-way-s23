@@ -2,11 +2,12 @@
 
 ## References
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
-- Videos: [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these strategies are universal for all programming languages) ~15min
+- [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these strategies are universal for all programming languages) ~15min
 - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
-- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
-“Topic 20: Debugging,” [The Pragmatic Programmer, 2nd Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006843771&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,pragmatic%20programmer&sortby=rank&mode=basic), by David Thomas and Andrew Hunt (NYU Library online access) 
-“Chapter 23: Debugging,” [Code Complete, 2nd Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005835845&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,code%20complete&sortby=date&facet=frbrgroupid,include,1147872474&offset=0), by Steve McConnell (NYU Library online access)
+- [Rubber Duck Debugging: Debugging software with a rubber ducky](https://rubberduckdebugging.com/)
+- “Topic 20: Debugging,” [The Pragmatic Programmer, 2nd Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006843771&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,pragmatic%20programmer&sortby=rank&mode=basic), by David Thomas and Andrew Hunt (NYU Library online access) 
+- “Chapter 23: Debugging,” [Code Complete, 2nd Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005835845&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,code%20complete&sortby=date&facet=frbrgroupid,include,1147872474&offset=0), by Steve McConnell (NYU Library online access)
+- [Frieder Nake: The Beginnings of Digital Art](https://vimeo.com/645548103) ~7min
 
 
 ## Assignment
