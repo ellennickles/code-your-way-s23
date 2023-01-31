@@ -2,6 +2,7 @@
 
 ## References
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
+- [In-class code tracing example](https://editor.p5js.org/enickles/sketches/8f6Ee2RTb)
 - [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these strategies are universal for all programming languages) ~15min
 - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
 - [Rubber Duck Debugging: Debugging software with a rubber ducky](https://rubberduckdebugging.com/)
