@@ -15,7 +15,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 *Subject to change based on interests and needs
 
 ### Part 1: Process and Skills 
-| Date | Week | Topic | 
+| Date | Week | Outline and Assignment | 
 | :--- | :--- | :--- |
 | Jan 23 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s23/tree/main/week1) |
 | Jan 30 | Week 2 | [Debugging / Unpredictability](https://github.com/ellennickles/code-your-way-s23/tree/main/week2) |
@@ -28,7 +28,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Mar 20 | Week 7 | Project Planning / Software Metaphors |
 
 ### Part 2: Independent Project Development
-| Date | Week | Topic | 
+| Date | Week | Outline and Assignment | 
 | :--- | :--- | :--- |
 | Mar 27 | Week 8 | Project Proposals |
 | Apr 3 - May 1 | Weeks 9-13 | Project Development |
