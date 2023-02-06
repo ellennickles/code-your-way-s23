@@ -18,14 +18,14 @@ Assemble and modify:
 - [Review loops](https://editor.p5js.org/enickles/sketches/Qo7DHHcFk)
   (directions in sketch)
 
-Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/main/encode.md) to reverse engineer these sketches:
+Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/main/encode.md)
+and analyze the visual output to predict the input code:
 
 - [Encode 1](https://editor.p5js.org/enickles/full/iu3hqCt1e)
 - [Encode 2](https://editor.p5js.org/enickles/full/sTAx_W5n_)
 
-Use the [Decode
-process](https://github.com/ellennickles/code-your-way-s23/blob/main/decode.md)
-to practice reading and analyzing code before running it to predict the outcome:
+Use the [Decode process](https://github.com/ellennickles/code-your-way-s23/blob/main/decode.md)
+and analyze the input code and predict the visual output:
 
 - [Decode 1](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode1.js)
 - [Decode 2](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode2.js)
@@ -41,7 +41,22 @@ to practice reading and analyzing code before running it to predict the outcome:
 
 ### Part 2: Re/Code
 
-- Can you apply these techniques to scale, color, and play with geometric/organic forms? What can you animate, make interactive, or both? Can you make an interactive sketch that maps order to chaos based on the mouse position, e.g. “order” on the left and “chaos” on the right? Can you extend an example or self-designed composition from previous weeks with this week’s theme? (Source: *Code as a Creative Medium*)
+- Last week’s exercises used loops to repeat code. This week the idea is to
+  practice using a loop’s local variable to increase values in the repeating
+  code and increment visual characteristics to create a pattern(s). (You actually did
+  this with the Decode 1 example last week, too.) This week's historical
+  references do the same and also introduce random variation, sometimes
+  to affect every element and other times to “interrupt” the repeating
+  elements. Again, we’re working along the spectrum of structure and randomness.
+- Recode one of the examples from this week’s featured artists. Or draw
+  inspiration form some contemporary artists linked below. Or use an element
+  previously created for this course (or another one) to generate a pattern and
+  integrate random variation(s) in some way. Some of you worked in the grid with
+  random features for the open-ended homework last week, and you're welcome to
+  push that farther if you like. Everyone is welcome to work from
+  inspiration you find anywhere! Be sure to consider all the possible visual
+  characteristics to modify. Animation and interactive encouraged for even more
+  variation.
 - Possible inspiration
   - Featured artists in the Class Slides
   - [Saskia Freeke](https://twitter.com/sasj_nl)
