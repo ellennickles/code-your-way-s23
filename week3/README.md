@@ -1,4 +1,4 @@
-# Week 2 • Pair Programming / Iterative Patterns
+# Week 3 • Pair Programming / Iterative Patterns 1
 
 ## References
 
