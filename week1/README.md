@@ -3,7 +3,7 @@
 ## References
 
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
-- “Chapter 9 The Pseudocode Programming Process,” [Code Complete](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005835845&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,code%20complete&sortby=date&facet=frbrgroupid,include,1147872474&offset=0), 2nd Edition, by Steve McConnell (NYU Library online access > wait for O'Reilly to automatically log in)
+- (One approach) “Chapter 9 The Pseudocode Programming Process,” [Code Complete](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005835845&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,code%20complete&sortby=date&facet=frbrgroupid,include,1147872474&offset=0), 2nd Edition, by Steve McConnell (NYU Library online access > wait for O'Reilly to automatically log in)
 - "[How Should We Think About Our Different Styles of Thinking?](https://www.newyorker.com/magazine/2023/01/16/how-should-we-think-about-our-different-styles-of-thinking) Some people say their thought takes place in images, some in words. But our mental processes are more mysterious than we realize" by Joshua Rothman, New Yorker, January 16, 2023 ([PDF version](https://drive.google.com/drive/u/1/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ))
 
 ## Assignment
