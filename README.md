@@ -6,7 +6,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Meeting Time   | Mon 9:30am - 12:00pm ET|
 | Location   | 370 Jay Street Brooklyn • Room 409 |
 | Remote Access | This is an in-person course, but when life happens<br>1. [Log into NYU](https://nyu.zoom.us/)<br> 2. [Zoom meeting](https://nyu.zoom.us/j/91775409493?pwd=MStidkZFbThpaTBHdEQrUzZLaTNldz09)|
-| Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her)<br>On weekdays I aim to respond within 24 hours |
+| Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)<br>[How to ask code-related questions](https://github.com/ITPNYU/ICM-2021-Code/wiki/Example-Questions) | 
 | Quick Links  | [Submit assignments](https://forms.gle/5AgRQUsAeUj8mVNTA)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/14xLXPxR4IgosrZDG_Kim-iqDfAAmAjKC7yDhyS5JVac/edit?resourcekey#gid=1950048477)<br>[Our Miro Board](https://tinyurl.com/cyw23-miro)| 
