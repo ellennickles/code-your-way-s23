@@ -15,20 +15,20 @@
 
 Assemble and modify:
 
-- [Review loops](https://editor.p5js.org/enickles/sketches/Qo7DHHcFk)
+1. [Review loops](https://editor.p5js.org/enickles/sketches/Qo7DHHcFk)
   (directions in sketch)
 
 Use the [Encode process](https://github.com/ellennickles/code-your-way-s23/blob/main/encode.md)
 and analyze the visual output to predict the input code:
 
-- [Encode 1](https://editor.p5js.org/enickles/full/iu3hqCt1e)
-- [Encode 2](https://editor.p5js.org/enickles/full/sTAx_W5n_)
+2. [Encode 1](https://editor.p5js.org/enickles/full/iu3hqCt1e)
+3. [Encode 2](https://editor.p5js.org/enickles/full/sTAx_W5n_)
 
 Use the [Decode process](https://github.com/ellennickles/code-your-way-s23/blob/main/decode.md)
 and analyze the input code and predict the visual output:
 
-- [Decode 1](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode1.js)
-- [Decode 2](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode2.js)
+4. [Decode 1](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode1.js)
+5. [Decode 2](https://github.com/ellennickles/code-your-way-s23/blob/main/week3/decode2.js)
 
 #### Resources
 
