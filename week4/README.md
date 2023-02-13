@@ -24,7 +24,7 @@ visual pattern(s). Your choice:
 - Exercise 4: [Encode](https://editor.p5js.org/enickles/full/Y_x3PiIpy) or
   [Decode](https://github.com/ellennickles/code-your-way-s23/blob/main/week4/decode4.js)
 - **Extra** Exercise 5: [Encode](https://editor.p5js.org/enickles/full/2FIH2NzfY) or
-  [Decode](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/decode5.js)
+  [Decode](https://github.com/ellennickles/code-your-way-s23/blob/main/week4/decode5.js)
   ([this video](https://thecodingtrain.com/challenges/77-recursion) might help)
 
 ### Part 2: Re/Code
