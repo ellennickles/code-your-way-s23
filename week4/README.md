@@ -25,7 +25,7 @@ visual pattern(s). Your choice:
   [Decode](https://github.com/ellennickles/code-your-way-s23/blob/main/week4/decode4.js)
 - **Extra** Exercise 5: [Encode](https://editor.p5js.org/enickles/full/2FIH2NzfY) or
   [Decode](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/decode5.js)
-  ([Coding Train video on recursion](https://thecodingtrain.com/challenges/77-recursion) might help)
+  ([this video](https://thecodingtrain.com/challenges/77-recursion) might help)
 
 ### Part 2: Re/Code
 
@@ -35,7 +35,7 @@ visual pattern(s). Your choice:
   loops and patterns (last week of grids?!), progression is the theme this week:
   how can you represent continuous change(s) within the composition color,
   position, size, speed etc.) and/or over time? Is the quality of change gradual
-  or uneven? Can you make an interactive sketch that maps order to chaos based
+  or uneven? For example, can you make an interactive sketch that maps order to chaos based
   on the mouse position, e.g. “order” on the left and “chaos” on the right
   (prompt from _Code as a Creative Medium_)? Can you extend an example or
   self-designed sketch from previous weeks with this week’s theme. If you worked
