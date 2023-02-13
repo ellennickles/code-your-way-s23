@@ -7,7 +7,9 @@
 ## Assignment
 
 - Due in two weeks
-- Practice as much as you can in **Visual Studio Code**
+- Practice as much as you can in **Visual Studio Code**. Part of this week's
+  assignment is getting accustomed to working in this new environment. The other
+  part is continuing to practice programming.
 
 ### Part 1: Practice
 
@@ -29,9 +31,7 @@ visual pattern(s). Your choice:
 
 ### Part 2: Re/Code
 
-- Part of this week's assignment is getting accustomed to working in Visual
-  Studio Code.
-- The other part is continuing to practice programming. Extending our work with
+- Extending our work with
   loops and patterns (last week of grids?!), progression is the theme this week:
   how can you represent continuous change(s) within the composition color,
   position, size, speed etc.) and/or over time? Is the quality of change gradual
