@@ -1,5 +1,5 @@
 /*
-Inspired by Vera Molnár's Un, Deux, Trois
+Inspired by Vera Molnár's Un, deux, trois
 
 Based on a translation from Generative Artistry:
 https://generativeartistry.com/tutorials/un-deux-trois/
