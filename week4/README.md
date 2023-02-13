@@ -31,16 +31,16 @@ visual pattern(s). Your choice:
 
 ### Part 2: Re/Code
 
-- Extending our work with
-  loops and patterns (last week of grids?!), progression is the theme this week:
-  how can you represent continuous change(s) within the composition color,
-  position, size, speed etc.) and/or over time? Is the quality of change gradual
-  or uneven? For example, can you make an interactive sketch that maps order to chaos based
-  on the mouse position, e.g. “order” on the left and “chaos” on the right
-  (prompt from _Code as a Creative Medium_)? Can you extend an example or
-  self-designed sketch from previous weeks with this week’s theme. If you worked
-  with gradients in the past, what are other ways to demonstrate a shift? Just some
-  ideas to get started, in addition to those in the Class Slides.
+- Extending our work with loops and patterns (last week of grids?!), progression
+  is the theme this week: how can you represent continuous change(s) within the
+  composition color, position, size, speed etc.) and/or over time? Is the
+  quality of change gradual or uneven? For example, can you make an interactive
+  sketch that maps order to chaos based on the mouse position, e.g. “order” on
+  the left and “chaos” on the right (prompt from _Code as a Creative Medium_)?
+  Can you extend an example or self-designed sketch from previous weeks with
+  this week’s theme. If you worked with gradients in the past, what are other
+  ways to demonstrate a shift? Just some ideas to get started, in addition to
+  those in the Class Slides.
 
 ### Part 3: Document
 
