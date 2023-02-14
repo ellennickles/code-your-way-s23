@@ -9,6 +9,7 @@
   - [Part 2](https://editor.p5js.org/enickles/sketches/9_8lXSOzS)
   - [Part 3](https://editor.p5js.org/enickles/sketches/xG2BR25XI) (custom palette generator)
 - [Review functions](https://editor.p5js.org/enickles/sketches/sLrfmjcSl)
+- [Joan Truckenbrod: Punch cards to computer](https://vimeo.com/286992423)
 
 ## Assignment
 
