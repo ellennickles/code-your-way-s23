@@ -3,8 +3,8 @@
 ## References
 
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
-- [RGB Mixer](https://editor.p5js.org/enickles/full/uB9PBM-w4), [HSB Mixer](https://editor.p5js.org/enickles/full/yHAvJuEuB) 
-- Review arrays 
+- [RGB Mixer](https://editor.p5js.org/enickles/full/uB9PBM-w4), [HSB Mixer](https://editor.p5js.org/enickles/full/yHAvJuEuB)
+- Review arrays
   - [Part 1](https://editor.p5js.org/enickles/sketches/HqxT6gHTo)
   - [Part 2](https://editor.p5js.org/enickles/sketches/9_8lXSOzS)
   - [Part 3](https://editor.p5js.org/enickles/sketches/xG2BR25XI) (custom palette generator)
