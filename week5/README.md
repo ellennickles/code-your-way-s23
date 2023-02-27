@@ -63,7 +63,7 @@ interactive, combine it with a previous sketch.
 - Work locally in a Git repository and code your own full screen screensaver.
   (Hmmm... coming full circle to Week 1's preloaders?) Further extend one of
   your modified examples above or combine some?
-  - Use our Git Intro guide above for reference and try:
+  - Use our Git Intro guide (link above) for reference and try:
     - Committing your changes as you develop your sketch
     - Creating at least one new branch to develop a version with a new feature  
     - Switching back and forth between branches
