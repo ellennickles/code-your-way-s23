@@ -72,7 +72,7 @@ interactive, combine it with a previous sketch.
     - Merging one branch into another
     - NOTE: As you work on your project in VS Code, saving changes there will
       not be automatically added to your Git repository. To "save" changes to
-      your Git repository, it's a two-step process of (1) staging (adding) your
+      your Git repository, it's a two-step process in the terminal of (1) staging (adding) your
       modified files and then (2) committing them.
 - Possible inspiration
   - Featured artists in the Class Slides
