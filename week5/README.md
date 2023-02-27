@@ -110,3 +110,7 @@ interactive, combine it with a previous sketch.
   and Git**. Where did you get stuck, and what steps did you take troubleshoot?
   What would you like to explore and practice more?
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
+
+### Part 4: Prepare for next week's class
+
+- Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't already have one. 
