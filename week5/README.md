@@ -3,16 +3,21 @@
 ## References
 
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
-- [Command Line Intro]()
-- [Git Intro]()
-- [Integrated Terminal in Visual Studio Code](https://code.visualstudio.com/docs/terminal/basics)
-
+- Version control with Git
+  - [Command Line Intro]()
+  - [Git Intro]()
+  - [Integrated Terminal in Visual Studio
+    Code](https://code.visualstudio.com/docs/terminal/basics)
+  - Coding Train videos (from 2018): [Visual Studio
+    Code](https://thecodingtrain.com/tracks/2018-workflow/workflow/2-visual-studio-code)
+    | [Shell](https://thecodingtrain.com/tracks/2018-workflow/workflow/3-shell)
+| [Git](https://thecodingtrain.com/tracks/2018-workflow/workflow/4-git)
+  
 ## Assignment
 
 Don't worry if you have worked with algebra and trigonometry in a long time!
 Just tinker and have fun with the equations in the code examples. This week is
-more about getting used to implementing version control in our projects with Git
-using a command line interface.
+more about getting used to implementing version control with Git using a command line interface.
 
 ### Part 1: Explore and Experiment
 
@@ -55,8 +60,14 @@ interactive, combine it with a previous sketch.
 
 ### Part 2: Re/Code
 
-- Code your own screensaver! (Hmmm... are we coming full circle to Week 1's
-  preloaders?) Further extend one of the examples above or combine some?
+- Work locally in a Git repository and code your own full screen screensaver.
+  (Hmmm... coming full circle to Week 1's preloaders?) Further extend one of
+  your modified examples above or combine some?
+  - Use our Git Intro guide above for reference and try:
+    - Committing your changes as you develop your sketch
+    - Creating at least one new branch to develop a version with a new feature  
+    - Switching back and forth between branches
+    - Merging one branch into another
 - Possible inspiration
   - Featured artists in the Class Slides
   - Classic Windows screensavers,
@@ -85,10 +96,10 @@ interactive, combine it with a previous sketch.
 ### Part 3: Document
 
 - Write a blog post. Copy and paste any code from VS Code into the p5 web
-  editor, so you can link to your sketches. I know this is redundant, but for
-  now this is the easiest way to share.
-- Same as last week: reflect on the discoveries and challenges you encountered
-  during the exercises. What graphic or animation effects are most pleasing to
-  you? Where did you get stuck, and what steps did you take to troubleshoot?
-  What code-related techniques would you like to explore and practice more?
+  editor, so you can link to your sketches. I know, I know this is getting super
+  redundant, but it's still the easiest way to share.
+- Reflect on the discoveries and challenges you encountered with the code
+  exercises **and also with your new workflow using the command line interface
+  and Git**. Where did you get stuck, and what steps did you take troubleshoot?
+  What would you like to explore and practice more?
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
