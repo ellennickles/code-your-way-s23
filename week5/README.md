@@ -97,7 +97,7 @@ interactive, combine it with a previous sketch.
 
 - Write a blog post. Copy and paste any code from VS Code into the p5 web
   editor, so you can link to your sketches. I know, I know this is getting super
-  redundant, but it's still the easiest way to share.
+  redundant, but it's still the easiest way to share. 
 - Reflect on the discoveries and challenges you encountered with the code
   exercises **and also with your new workflow using the command line interface
   and Git**. Where did you get stuck, and what steps did you take troubleshoot?
