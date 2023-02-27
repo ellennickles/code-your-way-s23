@@ -268,35 +268,42 @@ $ git status
 
 ### Track new files and stage modified files to commit
 
-Run the `git add` command to start tracking a new file. If you update a file
+NOTE: As you work on your project in Visual Studio Code, saving changes there
+will not automatically be added to your Git repository. To "save" changes to
+your Git repository, it's a two-step process:
+
+1. Run the `git add` command to start tracking a new file. If you update a file
 that's already tracked, then you still need run `git add` to stage the file
-before the next commit.
-
-You can add all files at once, individually, or in small groups.
-
-Only files that are staged will go into the commit.
-
-The `-m` flag appends a short message to describe the commit.
+before the next commit. You can add all files at once, individually, or in small
+groups (see below).
+2. Commit the files. Only files that are staged will go into the commit. The `-m` flag appends a short message to describe the commit.
 
 #### Add and commit ALL changes
 
+`git add .` adds all files that are new or modified in your project folder:
+
 ```sh
 $ git add .
-$ git commit -m "adds all changes to all files"
+$ git commit -m "adds any new or changed files"
 ```
+
+(_How can you make this commit message more descriptive to fit your project?_)
 
 #### Add a single file and commit
 
 ```sh
-$ git add index.html
-$ git commit -m "updates title in index.html"
+$ git add sketch.js
+$ git commit -m "refactor with class to create many ball objects"
 ```
 
-#### Add multiples files and commit
+#### Add multiples files and directories and commit
+
+Let's say you decide to separate your ball class (from the above example) into a
+separate JavaScript file called `ball.js`. The staging and commit might look like:
 
 ```sh
-$ git add index.html css/main.css
-$ git commit -m "updates index with new reference to main.css"
+$ git add index.html ball.js
+$ git commit -m "updates index with reference to new ball.js"
 ```
 
 ### Show commit history
@@ -310,17 +317,23 @@ $ git log
 In your console you'll see something like this:
 
 ```sh
-commit f7bbdc53a033d412c522dc0609874a696ba0fb8e (HEAD -> main, origin/main)
+commit 45d57112e59d0d5c31976a205de4688a19e4a436 (HEAD -> main)
 Author: yourGithubHandle 
-Date:   Fri Jan 24 17:56:02 2020 -0500
+Date:   Mon Feb 27 13:38:05 2023 -0500
 
-    adds content to foundations
+    add second circle
 
-commit 3418c5ce47cf047025b38be770834254eb11af46
+commit b5fb295283083775c550980bc4da8ec3050b8761
 Author: yourGithubHandle 
-Date:   Fri Jan 24 17:53:28 2020 -0500
+Date:   Mon Feb 27 13:37:38 2023 -0500
 
-    adds table of contents
+    adds circle
+
+commit ff1aae083c35a6bea9ffed83e3a269593a9ded77
+Author: yourGithubHandle 
+Date:   Mon Feb 27 13:36:15 2023 -0500
+
+    Initial commit
 ```
 
 Type the letter **q** to exit and return to the command line prompt.
