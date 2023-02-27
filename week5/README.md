@@ -60,18 +60,19 @@ interactive, combine it with a previous sketch.
 
 ### Part 2: Re/Code
 
-- Work locally in a Git repository and code your own full screen screensaver.
+- Develop a local p5 project on your computer in VS Code, and program your own full screen screensaver.
   (Hmmm... coming full circle to Week 1's preloaders?) Further extend one of
   your modified examples above or combine some?
-  - Use our Git Intro guide (link above) for reference and try:
+  - Initialize your p5 project directory as a Git repository.
+  - Use our [Git Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md) guide for reference and try:
     - Committing your changes as you develop your sketch
     - Creating at least one new branch to develop a version with a new feature  
     - Switching back and forth between branches
     - Merging one branch into another
+    - NOTE: As you work on your project in VS Code, saving changes there will not be automatically added to your Git repository. To "save" changes to your Git repository, it's a two-step process of (1) staging (adding) your files and then (2) committing them
 - Possible inspiration
   - Featured artists in the Class Slides
-  - Classic Windows screensavers,
-    [Mystify](https://www.youtube.com/watch?v=FPfMkEgi2qI) and
+  - Classic Windows screensavers that do not use parametric equations but are adjacent to this week's creative theme:[Mystify](https://www.youtube.com/watch?v=FPfMkEgi2qI),
     [Bézier](https://www.youtube.com/watch?v=3SEBEh_t5K8), and also
     [Screensaver_XP](https://openprocessing.org/sketch/215642) by kuba
   - John Whitney’s [Catalog](https://www.youtube.com/watch?v=TbV7loKp69s) (1961)
