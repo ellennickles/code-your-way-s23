@@ -269,14 +269,12 @@ $ git status
 ### Track new files and stage modified files to commit
 
 NOTE: As you work on your project in Visual Studio Code, saving changes there
-will not automatically be added to your Git repository. To "save" changes to
-your Git repository, it's a two-step process:
+will not be automatically added to your Git repository. To "save" changes to
+your Git repository, it's a two-step process of staging (adding) your files and then committing them:
 
-1. Run the `git add` command to start tracking a new file. If you update a file
-that's already tracked, then you still need run `git add` to stage the file
-before the next commit. You can add all files at once, individually, or in small
+1. **Stage** with the `git add` command to start tracking a new file. If you update a file (with code, comments, etc.) that's already tracked, then you still need run `git add` to stage the file before the next commit. You can add all files at once, individually, or in small
 groups (see below).
-2. Commit the files. Only files that are staged will go into the commit. The `-m` flag appends a short message to describe the commit.
+2. **Commit** the files. Only files that are staged will go into the commit. The `-m` flag appends a short message to describe the commit.
 
 #### Add and commit ALL changes
 
