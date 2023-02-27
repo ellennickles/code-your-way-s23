@@ -4,8 +4,8 @@
 
 - [Class Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
 - Version control with Git
-  - [Command Line Intro]()
-  - [Git Intro]()
+  - [Command Line Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/commandline.md)
+  - [Git Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md)
   - [Integrated Terminal in Visual Studio
     Code](https://code.visualstudio.com/docs/terminal/basics)
   - Coding Train videos (from 2018): [Visual Studio
