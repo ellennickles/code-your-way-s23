@@ -1,4 +1,4 @@
-# Git Guide
+# Git Introduction
 
 >_This guide was adapted with permission from
 [Joey Lee](https://github.com/joeyklee) and [Cassie
