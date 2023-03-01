@@ -471,6 +471,7 @@ $ (main): git branch -d new-feature
 ## Resources
 
 - At the command line, type `git help` for a list of git commands.
+- [Git Cheat Sheet (pdf)](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git Documentation](https://git-scm.com/doc)
 - [Introduction to version control with Git from Microsoft
   Learn](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/)
