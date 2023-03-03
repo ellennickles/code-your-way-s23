@@ -15,7 +15,7 @@
   
 ## Assignment
 
-Don't worry if you have worked with algebra and trigonometry in a long time!
+Don't worry if you haven't worked with algebra and trigonometry in a long time!
 Just tinker and have fun with the equations in the code examples. This week is
 more about getting used to implementing version control with Git using a command line interface.
 
