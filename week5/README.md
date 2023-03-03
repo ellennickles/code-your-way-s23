@@ -113,4 +113,5 @@ interactive, combine it with a previous sketch.
 
 ### Part 4: Prepare for next week's class
 
-- Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't already have one. 
+- Create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+  if you don't already have one.
