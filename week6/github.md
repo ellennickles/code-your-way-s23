@@ -54,7 +54,7 @@ if you don't already have one.
 2. Paste the text below, substituting in **your GitHub email address**:
 
     ```ssh
-    ssh-keygen -t ed25519 -C "your_github_email@example.com"
+    $ ssh-keygen -t ed25519 -C "your_github_email@example.com"
     ```
 
     The output should look something like this:
@@ -118,7 +118,7 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
    - If the file doesn't exist, create the file:
 
       ```ssh
-      touch ~/.ssh/config
+      $ touch ~/.ssh/config
       ```
 
    - Open your `~/.ssh/config` file, then modify the file to contain the
@@ -127,7 +127,7 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
      Code](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md#set-default-text-editor):
 
       ```ssh
-      code ~/.ssh/config
+      $ code ~/.ssh/config
       ```
 
    - The config file should open in a new window in Visual Studio Code. Add the following lines:
@@ -143,7 +143,7 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
    - Print out the contents of the file to verify the change:
 
       ```ssh
-      cat ~/.ssh/config
+      $ cat ~/.ssh/config
       ```
 
       NOTE: If Visual Studio Code is not your default text editor, use Nano in
@@ -156,7 +156,7 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
 3. Add your SSH private key to the ssh-agent:
 
     ```ssh
-    ssh-add ~/.ssh/id_ed25519
+    $ ssh-add ~/.ssh/id_ed25519
     ```
 
     The output should look something like this:
@@ -172,14 +172,14 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
   1. Copy the SSH public key to your clipboard:
 
       ```ssh
-      pbcopy < ~/.ssh/id_ed25519.pub
+      $ pbcopy < ~/.ssh/id_ed25519.pub
       ```
 
       NOTE: If `pbcopy` isn't working, print the contents and copy it to your
       clipboard:
 
       ```ssh
-      cat ~/.ssh/id_ed25519.pub
+      $ cat ~/.ssh/id_ed25519.pub
       ```
 
   2. Navigate to your GitHub account > Click your profile photo (upper right) >
@@ -268,15 +268,15 @@ others. (You can also make repositories on GitHub private.)
     - Ensure that you are on the main branch:
 
       ```sh
-      git checkout main
+      $ git checkout main
       ```
 
 6. To connect your **local** repository to your new **remote** repository, type
    these commands using the SSH URL you copied before: 
 
       ```sh
-      git remote add origin git@github.com:YOURGITHUBUSERNAME/p5demo.git
-      git push -u origin main
+      $ git remote add origin git@github.com:YOURGITHUBUSERNAME/p5demo.git
+      $ git push -u origin main
       ```
 
     `origin` is the name of your remote repository. I know, it's confusing
@@ -298,7 +298,7 @@ are not automatically "saved" in the remote repository. You'll need to `push`
 those change to the remote with this command:
 
   ```sh
-  git push origin main
+  $ git push origin main
   ```
 
 Refresh your remote repository page on GitHub to see the changes.
@@ -330,7 +330,7 @@ pull it down to the local repository:
    repository:
 
     ```sh
-    git pull origin main
+    $ git pull origin main
     ```
 
 7. On your local computer, look for the new README.md file in your project's directory
@@ -347,13 +347,12 @@ version of another repository that you find on GitHub:
    repository and use this command:
 
     ```sh
-    git clone git@github.com:THEGITHUBACCOUNT/REPONAME.git
+    $ git clone git@github.com:THEGITHUBACCOUNT/REPONAME.git
     ```
 
 ## Resources
 
-- [About Git (and how it works with
-  GitHub)](https://docs.github.com/en/get-started/using-git/about-git)
+- [About Git (and how it works with GitHub)](https://docs.github.com/en/get-started/using-git/about-git)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Pro Git book:
   GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
