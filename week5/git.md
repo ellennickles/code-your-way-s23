@@ -29,7 +29,7 @@ Guide](https://github.com/itp-dwd/2020-spring/blob/master/guides/git.md)._
     - [Add multiples files and commit](#add-multiples-files-and-commit)
   - [Show commit history](#show-commit-history)
   - [Ignore files from Git tracking](#ignore-files-from-git-tracking)
-- [Undo Changes](#undo-changes)
+- [Undo changes](#undo-changes)
   - [Revert to the last commit](#revert-to-the-last-commit)
   - [Revert to a specified commit](#revert-to-a-specified-commit)
 - [Branching and merging](#branching-and-merging)
