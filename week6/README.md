@@ -4,7 +4,15 @@
 
 - [Class
   Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
-- On refactoring
+- Refactoring
+  - [Example 1](https://editor.p5js.org/enickles/sketches/97-0PcrQK) /
+    [Refactored]() tba
+  - [Example 2](https://editor.p5js.org/enickles/sketches/HJvUJ1x95) /
+    [Refactored]() tba
+  - [Example 3](https://editor.p5js.org/enickles/sketches/3SiFWoA_Y) /
+    [Refactored]() tba
+  - [Example 4](https://editor.p5js.org/enickles/sketches/mEK30czN2) /
+    [Refactored part 1]() / [Refactored part 2]() tba
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
@@ -24,7 +32,7 @@
 ## Assignment
 
 - Due in two weeks
-- The ideas this week are to practice refactoring code and also storing code on
+- The ideas this week are to practice refactoring code and storing code on
   GitHub.
 
 ### Part 1: Refactor + Git
@@ -65,12 +73,11 @@
 
 ### Part 3: Prepare for next class
 
-- After the break, we’ll start transitioning to the second part of the course in
+- After the break, we’ll transition to the second part of the course in
   which you’ll work on an independent project (which could also be a series of
-  smaller projects) of your choice and practice programming concepts and
-  strategies from the first half of semester even more!
-- Start pondering / brainstorming about what you might like to do and be
-  prepared to informally share some nascent ideas (it’s totally okay if your
-  change them later).
-- We’ll talk more about the independent projects next time. Have a wonderful
-  spring break!
+  smaller projects) of your choice. (And practice programming concepts and
+  strategies from the first half of semester even more!)
+- We’ll talk more about the independent projects next time. Start pondering  /
+  brainstorming what you might like to do and be prepared to informally share
+  some nascent ideas when we meet.
+- Have a wonderful spring break!

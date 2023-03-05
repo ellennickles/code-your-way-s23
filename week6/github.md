@@ -4,13 +4,13 @@
 
 - [About GitHub](#about-github)
 - [Create an account](#create-an-account)
-- [Set up SSH keys for Git authentication](#set-up-ssh-keys-for-git-authentication)
-  - [Generate a new SSH key on your local computer](#generate-a-new-ssh-key-on-your-local-computer)
-  - [Add the SSH key to the ssh-agent](#add-the-ssh-key-to-the-ssh-agent)
-  - [Add the SSH key to your GitHub account](#add-the-ssh-key-to-your-github-account)
+- [Set up SSH keys for GitHub authentication](#set-up-ssh-keys-for-github-authentication)
+  - [Generate a new SSH key pair on your local computer](#generate-a-new-ssh-key-pair-on-your-local-computer)
+  - [Add the SSH private key to the ssh-agent](#add-the-ssh-private-key-to-the-ssh-agent)
+  - [Add the SSH public key to your GitHub account](#add-the-ssh-public-key-to-your-github-account)
   - [Test your SSH connection](#test-your-ssh-connection)
 - [Add a local Git repository to GitHub](#add-a-local-git-repository-to-github)
-- [Push changes to remote repository](#push-changes-to-remote-repository)
+- [Push changes to a remote repository](#push-changes-to-a-remote-repository)
 - [Pull changes from a remote repository](#pull-changes-from-a-remote-repository)
 - [Clone a GitHub repository to a local directory](#clone-a-github-repository-to-a-local-directory)
 - [Resources](#resources)
@@ -18,9 +18,9 @@
 ## About GitHub
 
 Github is a online service that allows you to host your Git version-controlled
-projects. The general idea is to motivate open software, knowledge sharing, and
-collaboration. It's a platform from which you can easily share your projects,
-software or otherwise, and also develop projects with others.
+projects. It's a platform from which you can easily share your projects,
+software or otherwise, and also develop projects with others. The general idea
+is to motivate open software, knowledge sharing, and collaboration.
 
 ## Create an account
 
@@ -45,7 +45,7 @@ if you don't already have one.
  depending on their operating system version. If you run into issues, refer to
  the linked tutorials as a starting point.
 
-### Generate a new SSH key on your local computer
+### Generate a new SSH key pair on your local computer
 
 >_Reference: [Generating a new SSH
   key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)_
@@ -86,9 +86,10 @@ if you don't already have one.
     The key's randomart image is: +--[ED25519 256]--+ ...and more characters
     ```
 
-### Add the SSH key to the ssh-agent
+### Add the SSH private key to the ssh-agent
 
-In order to use your SSH key, add it to another program called the **ssh-agent**.  
+In order to use your SSH private key, add it to another program called the
+**ssh-agent** on your computer.
 
 >_Reference: [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)_
 
@@ -165,7 +166,7 @@ In order to use your SSH key, add it to another program called the **ssh-agent**
     Identity added: /Users/YOU/.ssh/id_ed25519 (your_github_email@example.com)
     ```
 
-### Add the SSH key to your GitHub account
+### Add the SSH public key to your GitHub account
 
 >_Reference: [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)._
 
@@ -272,7 +273,7 @@ others. (You can also make repositories on GitHub private.)
       ```
 
 6. To connect your **local** repository to your new **remote** repository, type
-   these commands using the SSH URL you copied before: 
+   these commands using the SSH URL you copied before:
 
       ```sh
       $ git remote add origin git@github.com:YOURGITHUBUSERNAME/p5demo.git
@@ -286,16 +287,16 @@ others. (You can also make repositories on GitHub private.)
     repository](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories?platform=mac#renaming-a-remote-repository)
 
 7. Return to your GitHub account and refresh your remote repository page to
-    find your project! NOTE: After you connect your local repository to a remote
-    repository, any commits that you make on your local machine will not
-    automatically be "saved" in the remote repository. You'll need to `push`
+    find your project's files. NOTE: After you connect your local repository to
+    a remote repository, any commits that you make on your local machine will
+    not automatically be "saved" in the remote repository. You'll need to `push`
     those changes to the remote.
 
-## Push changes to remote repository
+## Push changes to a remote repository
 
 After you connect your local repository to a remote repository, local commits
 are not automatically "saved" in the remote repository. You'll need to `push`
-those change to the remote with this command:
+those commits to the remote repository on GitHub with this command:
 
   ```sh
   $ git push origin main
