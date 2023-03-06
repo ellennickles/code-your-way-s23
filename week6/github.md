@@ -359,3 +359,6 @@ version of another repository that you find on GitHub:
   GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
   (on collaborating)
 - Coding Train videos: [Introduction to Git and GitHub](https://thecodingtrain.com/tracks/git-and-github-for-poets/git/1-fundamentals/1-intro) (from 2016)
+- [Markdown Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
