@@ -29,7 +29,9 @@
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph006843771&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,pragmatic%20programmer&sortby=rank&mode=basic),
     by David Thomas and Andrew Hunt (NYU Library online access)
   - [Naming things in JavaScript](https://gomakethings.com/naming-things-in-javascript/)
-- [GitHub Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week6/github.md)
+- GitHub
+  - [GitHub Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week6/github.md) guide
+  - [Ellen's sample GitHub repo](https://github.com/ellennicklesdemo/p5sample)
 
 ## Assignment
 
