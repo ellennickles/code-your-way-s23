@@ -38,7 +38,7 @@
 ### Part 1: Refactor + Git
 
 - Create a local directory with a p5 project, initialize it at as a [Git
-  repository](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md),
+  repository](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md#create-a-git-repository),
   and refactor a previous sketch so that the output is the same but
   the the code has been restructured.
 - You can refactor a sketch from this course or another one. If your sketch is
@@ -49,16 +49,15 @@
   of to implement programming concepts, and/or you have inklings that the code
   could be written in more efficient ways, i.e. "bad smells"
 - As you refactor, commit notable changes or milestones:
-  - Look for repeating elements for which you can remove by converting it into a
-    loop, a function, or a class to make objects.
+  - Look for repeating elements to convert into a loop, a function, or a class to make objects.
   - Is there any unused code to remove?
-  - Can you make our code more readable? e.g. Any variables or functions to
+  - Can you make your code more readable? e.g. Any variables or functions to
     rename so that someone else reading your code can follow along without
-    necessarily needing comments?
-  - But comments are okay too! Especially to reinforce your own understanding
+    needing comments?
+  - But adding comments are okay too! Especially to reinforce YOUR understanding
     of programming concepts and how your sketch works.
   - If there’s a lot of code, can you organize separate into different
-    files?(See [Coding Train video on how organize your code into multiple
+    files? (See [Coding Train video on how organize your code into multiple
     JavaScript files](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/4-editor-js-files).)
   
 ### Part 2: Document + GitHub
@@ -66,9 +65,9 @@
 - Push your repository to your GitHub account. Write a blog post that includes
   the original code and a link to the refactored code in GitHub.
 - Describe and reflect on the changes you made and why you made them. How did it
-  go with Git and GitHub this week? For all of it, where did you get stuck, and
-  what steps did you take troubleshoot? Anything that you would like to explore
-  and practice more?
+  go with Git and GitHub this week? For all of it (including the coding part),
+  where did you get stuck, and what steps did you take troubleshoot? Anything
+  that you would like to explore and practice more?
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
 
 ### Part 3: Prepare for next class
