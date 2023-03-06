@@ -6,13 +6,15 @@
   Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
 - Refactoring
   - [Example 1](https://editor.p5js.org/enickles/sketches/97-0PcrQK) /
-    [Refactored]() tba
+    [Refactored](https://editor.p5js.org/enickles/sketches/CpTOihVK0) 
   - [Example 2](https://editor.p5js.org/enickles/sketches/HJvUJ1x95) /
-    [Refactored]() tba
+    [Refactored](https://editor.p5js.org/enickles/sketches/kIr99F4rW) 
   - [Example 3](https://editor.p5js.org/enickles/sketches/3SiFWoA_Y) /
-    [Refactored]() tba
-  - [Example 4](https://editor.p5js.org/enickles/sketches/mEK30czN2) /
-    [Refactored part 1]() / [Refactored part 2]() tba
+    [Refactored](https://editor.p5js.org/enickles/sketches/BoLp3-pfci)
+  - [Example 4](https://editor.p5js.org/enickles/sketches/mEK30czN2)
+     - [Refactored part 1](https://editor.p5js.org/enickles/sketches/Du0OSaxBr)
+     - [Refactored part 2](https://editor.p5js.org/enickles/sketches/GtB_LzBVM) 
+     - [Refactored part 3](https://editor.p5js.org/enickles/sketches/ZwE9GyXP2) We can talk more about the [`return`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return) keyword after the break
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and
