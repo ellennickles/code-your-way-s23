@@ -27,7 +27,7 @@ You're probably familiar with interacting with you computer using its Graphical 
 
 You can, however, interface with your computer only using text. You write commands using text, and the computer will execute those commands. Sometimes it writes text back at you, or it might open an application, or produce a sound—-it will do whatever you told it to do. You can write these commands to your computer using the **command line**, also known as the command line interface, or CLI.
 
-![Screenshot of macOS terminal window](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/commandline.png)
+![Screenshot of macOS terminal window](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/assets/commandline.png)
 
 **Why use the command line?** You may find the command line difficult or tedious
 to use. However, it is an essential tool to developing software and important
