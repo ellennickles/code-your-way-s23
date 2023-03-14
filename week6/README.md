@@ -30,7 +30,7 @@
     by David Thomas and Andrew Hunt (NYU Library online access)
   - [Naming things in JavaScript](https://gomakethings.com/naming-things-in-javascript/)
 - GitHub
-  - [GitHub Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/week6/github.md) guide
+  - [GitHub Intro](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/github.md) guide
   - [Ellen's sample GitHub repo](https://github.com/ellennicklesdemo/p5sample)
 
 ## Assignment
