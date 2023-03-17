@@ -42,7 +42,7 @@
 ### Part 1: Refactor + Git
 
 - Create a local directory with a p5 project, initialize it at as a [Git
-  repository](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md#create-a-git-repository),
+  repository](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/git.md#create-a-git-repository),
   and refactor a previous sketch so that the output is the same but
   the the code has been restructured.
 - You can refactor a sketch from this course or another one. If your sketch is
