@@ -4,6 +4,8 @@
 
 - [Class
   Slides](https://drive.google.com/drive/folders/1CJBvOWjvRA19uFPxTAXgoDglkHBmJadJ?usp=sharing)
+- [Arielle Hein's Ted Talk: A new way to measure
+  time](https://www.youtube.com/watch?v=SzSVIJERQQg) (based on her [ITP thesis](https://itp.nyu.edu/shows/thesis2015/arielle-hein/))
 - Version control
   - [Tips and Tricks](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/tips-and-tricks.md)
   - All the guides consolidated [here](https://github.com/ellennickles/code-your-way-s23/tree/main/version-control-guides)!
@@ -13,14 +15,14 @@
 We are transitioning to the second part of the course: an environment for
 self-directed project development with the support of a classroom learning
 community. The idea is to provide you with the necessary structure and timeline
-to complete a single project or series of smaller projects (e.g. finishing
-multiple pieces for your portfolio). Make this course work for you to help you
-accomplish your goal(s)!
+to complete a single project or related series of smaller projects (e.g.
+finishing multiple pieces for your portfolio). Make this course work for you to
+help you accomplish your goal(s)!
 
-There is no requirement to use a particular aspect of programming. Focus on an
+There is no requirement to use specific aspects of programming. Focus on an
 idea that excites you and choose the best programming concepts and tools to help
 you realize it. You can take something you've already created for this course or
-another one to develop further, or create something entirely new.
+another one to develop further, or work on something entirely new.
 
 Future class meetings will mix time to work on assignments (individually or in
 groups on related projects), to share skills and resources, to share project
@@ -28,16 +30,16 @@ development, to user test and exchange feedback, and to conference with the
 instructor. If topics of general interest emerge, we can take the time to cover
 them in depth. Our course will culminate with a final project presentation.
 
-To start this process, do you best to come up with a proposal to
-share with our class to (1) practice articulating your idea(s) and (2) ask for
-constructive feedback about next steps, overall direction, resources, or more.
+To start this process, craft a proposal to share with our class to (1) practice
+articulating your idea(s) and (2) ask for constructive feedback about next
+steps, overall direction, resources, or more.
 
-### Part 1: Independent Project Proposal
+### Part 1: Project Proposal
 
 Research your project, collect some notes to answer the following questions, and
 prepare to share your proposal in class next week:
 
-- Ideas for a project title
+- Ideas for a project title?
 - Project description (max 100 words)
 - Who is the user? (the intended audience can also be you)
 - What is the user experience?
@@ -49,7 +51,9 @@ prepare to share your proposal in class next week:
 - What resources/books/sites/examples will you rely on?
 - What is the end goal?
 - How will you determine if this project is a success?
-- Cite 3 sources of inspiration (How did you become interested in this idea? quotes, photographs, products, projects, people, music, political events, social ills)
+- Cite 3 sources of inspiration (How did you become interested in this idea?
+  Quotes, photographs, products, projects, people, music, political events,
+  social ills, etc.)
 - Do you think all of this feasible in 7 weeks? Why?
 - Questions for your classmates. What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 
@@ -57,5 +61,5 @@ prepare to share your proposal in class next week:
 
 - Decide how to best to present your proposal to the class to address the above
   questions above and to obtain useful information for you to move forward.
-  Everyone will have 4 minutes to share.
+  Everyone will ~4 minutes to share.
 - [Submit here](https://forms.gle/5AgRQUsAeUj8mVNTA)
