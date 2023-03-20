@@ -16,8 +16,7 @@ We are transitioning to the second part of the course: an environment for
 self-directed project development with the support of a classroom learning
 community. The idea is to provide you with the necessary structure and timeline
 to complete a single project or related series of smaller projects (e.g.
-finishing multiple pieces for your portfolio). Make this course work for you to
-help you accomplish your goal(s)!
+finishing multiple pieces for your portfolio). Use this course to help you accomplish your goal(s)!
 
 There is no requirement to use specific aspects of programming. Focus on an
 idea that excites you and choose the best programming concepts and tools to help
@@ -31,7 +30,7 @@ instructor. If topics of general interest emerge, we can take the time to cover
 them in depth. Our course will culminate with a final project presentation.
 
 To start this process, craft a proposal to share with our class to (1) practice
-articulating your idea(s) and (2) ask for constructive feedback about next
+articulating your idea(s) and (2) to ask for constructive feedback about next
 steps, overall direction, resources, or more.
 
 ### Part 1: Project Proposal

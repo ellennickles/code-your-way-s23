@@ -30,8 +30,8 @@ directly from your terminal. Steps to install this functionality:
 2. Start typing **shell** and select **Shell Command: Install 'code' command in
    PATH**
 3. Launch Visual Studio Code directly from your terminal:
-    - To open a directory, `cd` into the directory and type `code .`
-    - To open a file, navigate to the file location and type `code nameoffile`
+    - To open a directory, `cd` into the directory and then type `code .`
+    - To open a file, navigate to the file's location and then type `code nameoffile`
 
 Or follow this [Coding Train video (from 2018) on Visual Studio
 Code](https://youtu.be/yJw0SyKO9IU?t=220)
@@ -49,7 +49,7 @@ New Terminal**. More information at [Visual Studio Code: Terminal Basics](https:
 
 Visual Studio Code provides integrated Git support to manage version control
 through its graphical interface, as opposed to typing commands in your terminal
-application. The functionality is limited but handles the [main Git operations](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio-Code) and will most likely take care of everything that you need right now.
+application. The functionality is limited but handles the [main Git operations](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio-Code) and will probably take care of everything that you need right now.
 
 TIP: Use this feature OR your terminal (standalone or the integrated view
 mentioned above) to avoid confusion and unintentional mishaps. For example,
@@ -76,7 +76,7 @@ For example, here are the steps publish a p5 project:
 3. In the sidebar menu, click **Pages**
 4. Build and deployment > Source: select **Deploy from a branch**
 5. Branch > select **main** and click **Save**
-6. NOTE: The build time can sometimes take a couple of hours!
+6. NOTE: The build time can sometimes take seconds or a couple of hours!
 7. When it's deployed, visit your live site at yourgithubusername.github.io/nameofrespository
 
 More information at the official [GitHub Pages Documentation](https://docs.github.com/en/pages).
