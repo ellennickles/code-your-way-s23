@@ -28,7 +28,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Feb 27 | Week 5 | [Version Control 2 / Parametric Geometries](https://github.com/ellennickles/code-your-way-s23/tree/main/week5) |
 | Mar 6 | Week 6 | [Version Control 3 / Refactoring / Your Projects!](https://github.com/ellennickles/code-your-way-s23/tree/main/week6) |
 | Mar 13 | No Class | Spring Break |
-| Mar 20 | Week 7 | Project Planning / Software Metaphors |
+| Mar 20 | Week 7 | [Project Planning / Software Metaphors](https://github.com/ellennickles/code-your-way-s23/tree/main/week7) |
 
 ### Part 2: Independent Project Development
 
