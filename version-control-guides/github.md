@@ -246,7 +246,7 @@ others. (You can also make repositories on GitHub private.)
 
 1. Make sure you have a local Git repository. If you need to, refer to our Git
    Intro guide for how to [initialize a repository in a local p5 project
-   directory](https://github.com/ellennickles/code-your-way-s23/blob/main/week5/git.md#initialize-a-repository-in-a-local-p5-project-directory).
+   directory](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/git.md#initialize-a-repository-in-a-local-p5-project-directory).
 
 2. In your GitHub.com account, create a **new repository**. (You'll connect your
    **local** repository to this new **remote** repository in a minute.) From
