@@ -354,6 +354,7 @@ version of another repository that you find on GitHub:
 ## Resources
 
 - [About Git (and how it works with GitHub)](https://docs.github.com/en/get-started/using-git/about-git)
+- [Hello World: Follow this Hello World exercise to get started with GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Pro Git book:
   GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
