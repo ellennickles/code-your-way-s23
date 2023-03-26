@@ -38,7 +38,7 @@ Watch [Coding Train videos I.2-I.4](https://www.youtube.com/watch?v=Qf4dIN99e2w&
 - [Perlin Noise with p5.js](http://genekogan.com/code/p5js-perlin-noise/) by Gene Kogan
 - [RANDOM.ORG: Introduction to Randomness and Random Numbers](https://www.random.org/randomness/) on “why it's hard (and interesting) to get a computer to generate proper random numbers.”
 - [Coding Train videos on conditional statements](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals)
-- [Coding Train vidoes on while and for loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/1-while-for)
+- [Coding Train videos on while and for loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/1-while-for)
 
 ### Part 2: Re/Code
 
