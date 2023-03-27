@@ -25,7 +25,7 @@ Is your project goal...
   site](https://ellennicklesdemo.github.io/helloworld/) on a static hosting
   service such as [GitHub
   Pages](https://github.com/ellennickles/code-your-way-s23/blob/main/version-control-guides/tips-and-tricks.md#github-pages),
-  Glitch, Netlify, etc.
+  [Glitch](https://glitch.com/), [Netlify](https://www.netlify.com/), etc.
 - If you are returning to a previous project, choose one area on which to focus
   this week (e.g. does it need a major refactor session? does it need some
   expanded functionality? does it need graphic design? does it need to be
