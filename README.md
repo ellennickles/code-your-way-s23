@@ -34,7 +34,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 
 | Date | Week | Outline and Assignment |
 | :--- | :--- | :--- |
-| Mar 27 | Week 8 | Project Proposals |
+| Mar 27 | [Week 8](https://github.com/ellennickles/code-your-way-s23/tree/main/week8) | Project Proposals |
 | Apr 3 - May 1 | Weeks 9-13 | Project Development |
 | May 8 | Week 14 | Project Presentations |
 
