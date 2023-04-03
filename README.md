@@ -35,7 +35,7 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Date | Week | Outline and Assignment |
 | :--- | :--- | :--- |
 | Mar 27 | Week 8 | [Project Proposals](https://github.com/ellennickles/code-your-way-s23/tree/main/week8) |
-| Apr 3	| Week 9 | Hello World | 
+| Apr 3	| Week 9 | [Hello World](https://github.com/ellennickles/code-your-way-s23/tree/main/week9) | 
 | Apr 10 | Week 10 | User Testing |  
 | Apr 17 | Week 11 | Guest Feedback | 
 | Apr 24 | Week 12 | Individual Meetings | 
