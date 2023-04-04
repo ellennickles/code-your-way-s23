@@ -55,7 +55,7 @@ and analyze the input code and predict the visual output:
   random features for the open-ended homework last week, and you're welcome to
   push that farther if you like. Everyone is welcome to work from
   inspiration you find anywhere! Be sure to consider all the possible visual
-  characteristics to modify. Animation and interactive encouraged for even more
+  characteristics to modify. Animation and interaction encouraged for even more
   variation.
 - Possible inspiration
   - Featured artists in the Class Slides
