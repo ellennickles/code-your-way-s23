@@ -30,4 +30,4 @@
 If you haven't already, make sure to [sign
 up](https://docs.google.com/document/d/1ZnAAprorey5RuRGjzpHt2LrA8oCmir8ednl2vHotraM/edit)
 for an individual meeting with Ellen on Zoom for Monday, April 24 (Week 12)
-instead of meeting as a whole class that day.
+instead of meeting as in class that day.
