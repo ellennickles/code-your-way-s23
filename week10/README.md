@@ -24,9 +24,3 @@
   working on your project before final presentations.
 - [Submit Parts 2 and 3 here](https://forms.gle/5AgRQUsAeUj8mVNTA).
 
-### Part 3: Prepare for Week 12 (two weeks)
-
-If you haven't already, make sure to [sign
-up](https://docs.google.com/document/d/1ZnAAprorey5RuRGjzpHt2LrA8oCmir8ednl2vHotraM/edit)
-for an individual meeting with Ellen on Zoom for Monday, April 24 (Week 12)
-instead of meeting in class that day.
