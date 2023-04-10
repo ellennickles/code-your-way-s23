@@ -19,10 +19,9 @@
   guest, [Dongsoo
   Suh](https://tisch.nyu.edu/itp/events/spring-2023/itp-ima-thursday-night-talk-suh-dongsoo),
   an ITP Alum, current visiting scholar, artist, and researcher.
-- Decide how to best to present your project. Consider including one (1)
-  question or two (2) to direct specific feedback. After this week, you'll have
-  three (3) solid weeks to continue working on your project before final
-  presentations.
+- Decide how to best to present your project. Consider including at least one (1) question 
+  to direct feedback. After next week, you'll have three (3) solid weeks to continue 
+  working on your project before final presentations.
 - [Submit Parts 2 and 3 here](https://forms.gle/5AgRQUsAeUj8mVNTA).
 
 ### Part 3: Prepare for Week 12 (two weeks)
