@@ -22,5 +22,6 @@
 - Decide how to best to present your project. If you didn't get the kind of feedback in class this week 
   that you were looking for, how might you adjust your presentation for next week? Consider including
   at least one (1) question to direct feedback based on one of the [feedback menu options](https://docs.google.com/presentation/d/1DzvPHaEL4q-B8e9ESDDdnMY-7OMQuP0A_tuJ6qqn4PI/edit#slide=id.g22c188a2f93_0_88). 
+- Everyone will have ~ three (3) minutes to share with a couple of minutes for feedback.
 - After next week, you'll have three (3) solid weeks to continue working on your project before final presentations.
 - [Submit Parts 2 and 3 here](https://forms.gle/5AgRQUsAeUj8mVNTA).
