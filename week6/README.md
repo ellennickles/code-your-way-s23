@@ -50,7 +50,7 @@
   your computer.
 - Challenge yourself to refactor a prior sketch that you really enjoyed but
   feels messy because you ran out or time, have a different understanding
-  of to implement programming concepts, and/or you have inklings that the code
+  of how to implement programming concepts, and/or you have inklings that the code
   could be written in more efficient ways, i.e. "bad smells"
 - As you refactor, commit notable changes or milestones:
   - Look for repeating elements to convert into a loop, a function, or a class to make objects.
