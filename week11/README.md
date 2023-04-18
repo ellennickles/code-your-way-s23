@@ -9,7 +9,7 @@
   [Zoom](https://nyu.zoom.us/my/ellennickles) to share your progress and
   two-week timeline for the remaining weeks of the semester.
 - (There might not be time to troubleshoot technical questions, but we can
-  certainly set up a followup time to do that.)
+  certainly set up a follow-up time to do that.)
 - [Sign up here](https://docs.google.com/document/d/1ZB010-BZZCvTPnROOD60sdyVm3Kd8EZiMb9rWRcsD8A/edit).
 
 ### Part 2: Keep Going and Two-week Timeline
