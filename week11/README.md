@@ -18,6 +18,5 @@
 - Summarize your progress so far and create a two-week timeline that
   represents what you can realistically accomplish in the next two weeks before
   before final project presentations.
-- What do you need to figure out? What steps do you need to take? What resources
-  do you need? How much time? Etc.
+- What are you doing and what have you done so far? What do you need to figure out? What steps do you need to take? What resources and support do you need? How much time? In what aspect(s) would you like feedback? (What are you unsure of conceptually, creatively, or technically?) Etc.
 - [Submit your progress and timeline here](https://forms.gle/5AgRQUsAeUj8mVNTA).
