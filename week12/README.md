@@ -3,7 +3,7 @@
 ## Assignment
 
 - You have your plan for the next two (2) weeks. You know what to do. If
-  figuring out the _how_, you realize that you need to pivot, that’s okay.
+  in figuring out the _how_, you realize that you need to pivot, that’s okay.
 - Next week’s class (Week 13) will be a flexible mixture of in-class work time
   and user testing. Choose one or the other, or both.
 - For whatever you decide to do, please submit a project update before class,
