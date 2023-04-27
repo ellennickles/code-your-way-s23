@@ -35,12 +35,12 @@ ITPG-GT 3007 • Interactive Telecommunications Program (ITP) • NYU Tisch Sch
 | Date | Week | Outline and Assignment |
 | :--- | :--- | :--- |
 | Mar 27 | Week 8 | [Project Proposals](https://github.com/ellennickles/code-your-way-s23/tree/main/week8) |
-| Apr 3	| Week 9 | [Hello World](https://github.com/ellennickles/code-your-way-s23/tree/main/week9) | 
+| Apr 3 | Week 9 | [Hello World](https://github.com/ellennickles/code-your-way-s23/tree/main/week9) |
 | Apr 10 | Week 10 | [User Testing](https://github.com/ellennickles/code-your-way-s23/blob/main/week10/README.md) |  
-| Apr 17 | Week 11 | [Guest Feedback](https://github.com/ellennickles/code-your-way-s23/blob/main/week11/README.md) | 
-| Apr 24 | Week 12 | [Individual Meetings](https://github.com/ellennickles/code-your-way-s23/tree/main/week12) | 
-| May 1	| Week 13 | Last Chance Workshop |
-| May 8	| Week 14	| Project Presentations | 
+| Apr 17 | Week 11 | [Guest Feedback](https://github.com/ellennickles/code-your-way-s23/blob/main/week11/README.md) |
+| Apr 24 | Week 12 | [Individual Meetings](https://github.com/ellennickles/code-your-way-s23/tree/main/week12) |
+| May 1 | Week 13 | [Last Chance Workshop](https://github.com/ellennickles/code-your-way-s23/tree/main/week13) |
+| May 8 | Week 14 | [Project Presentations](https://github.com/ellennickles/code-your-way-s23/tree/main/week14) |
 
 ## Syllabus
 
