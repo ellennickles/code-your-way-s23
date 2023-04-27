@@ -12,8 +12,6 @@
 
 - Document your final project in a blog post (or equivalent). It's up to you to
   figure out how to best document it.
-- If you are in the middle of an existing project, consider writing this post to
-  help your future self for when you continue developing it.
 - Here are some other loose guidelines to consider:
   - **Title** and/or one-sentence description
   - **Link** to project (if online)
