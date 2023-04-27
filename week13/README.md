@@ -36,9 +36,8 @@
 
 ### Part 3: Share your project and your approach to programming
 
-Prepare a ~ three (3) minute presentation about your project that ( 1 )
-describes what you made and ( 2 ) reflects on your approach to making it.
-
+- Prepare a ~ three (3) minute presentation about your project that ( 1 )
+  describes what you made and ( 2 ) reflects on your approach to making it.
 - Ideally you learned more about your topic--and we can’t wait to hear about it!
   But also, what did you learn about your general approach to developing
   code-driven projects?
@@ -50,7 +49,7 @@ describes what you made and ( 2 ) reflects on your approach to making it.
   - How do you go about learning a new function, sensor, technique, framework, etc? What helps you learn something new in this field?
   - What attitudes, methods, and resources help you persevere through challenging programming moments?
   - Do you have any insights into your process, e.g. do you ever find yourself getting stuck at the same types of roadblocks? Are certain aspects easier than others?
-  - Did you gain an awareness of what you might need to do to become a more proficient coder or to reach your goals?
-
-In your presentation, also feel free to include any questions to direct feedback
-about your project or approach(es).
+  - Did you gain an awareness of what you might need to do to become a more
+    proficient coder or to reach your goals?
+- In your presentation, also feel free to include any questions to direct
+  feedback about your project or approach(es).
